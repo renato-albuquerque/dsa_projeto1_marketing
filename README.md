@@ -8,7 +8,6 @@ Os dados representam informações sobre clientes e campanhas de Marketing reali
 - Visão do Comportamento de Compra do Cliente;
 - Visão da Performance das Campanhas de Marketing;
 - Visão dos Padrões de Compra no Ponto de Venda (País).
-<br>
 
 ## Perguntas
 ![Perguntas/Questions]()
