@@ -12,7 +12,7 @@ Os dados representam informações sobre clientes e campanhas de Marketing reali
 ![Dashboard_Customer_View](files/dashboard_customer_view.PNG)
 <br>
 
-## Dataviz - Visão Comportamento
+## Dataviz - Visão Comportamento de Compra do Cliente
 ![Dashboard_Behavior_View](files/dashboard_behavior_view.PNG)
 <br>
 
