@@ -8,8 +8,12 @@ Os dados representam informações sobre clientes e campanhas de Marketing reali
 - Visão da Performance das Campanhas de Marketing;
 - Visão dos Padrões de Compra no Ponto de Venda (País).
 
-## Dataviz
+## Dataviz - Visão Cliente
 ![Dashboard_Customer_View](files/dashboard_customer_view.PNG)
+<br>
+
+## Dataviz - Visão Comportamento
+![Dashboard_Behavior_View](files/dashboard_behavior_view.PNG)
 <br>
 
 [Ver Dashboard online.](https://app.powerbi.com/view?r=eyJrIjoiZWQ2NDNiOTgtMzE5Yy00NThkLWIyODctMmQwNGY3YmM1NDIzIiwidCI6IjY1OWNlMmI4LTA3MTQtNDE5OC04YzM4LWRjOWI2MGFhYmI1NyJ9)
