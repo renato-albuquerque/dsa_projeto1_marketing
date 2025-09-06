@@ -12,11 +12,11 @@ Os dados representam informações sobre clientes e campanhas de Marketing reali
 ![Dashboard_Customer_View](files/dashboard_customer_view.PNG)
 <br>
 
-## Dataviz - Visão Comportamento de Compra do Cliente
-![Dashboard_Behavior_View](files/dashboard_behavior_view.PNG)
+[Ver Dashboard online, customer view.](https://app.powerbi.com/view?r=eyJrIjoiZWQ2NDNiOTgtMzE5Yy00NThkLWIyODctMmQwNGY3YmM1NDIzIiwidCI6IjY1OWNlMmI4LTA3MTQtNDE5OC04YzM4LWRjOWI2MGFhYmI1NyJ9)
 <br>
 
-[Ver Dashboard online.](https://app.powerbi.com/view?r=eyJrIjoiZWQ2NDNiOTgtMzE5Yy00NThkLWIyODctMmQwNGY3YmM1NDIzIiwidCI6IjY1OWNlMmI4LTA3MTQtNDE5OC04YzM4LWRjOWI2MGFhYmI1NyJ9)
+## Dataviz - Visão Comportamento de Compra do Cliente
+![Dashboard_Behavior_View](files/dashboard_behavior_view.PNG)
 <br>
 
 [End]
