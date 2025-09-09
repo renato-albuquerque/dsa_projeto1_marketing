@@ -23,4 +23,8 @@ Os dados representam informações sobre clientes e campanhas de Marketing reali
 ![Dashboard_Marketing_Campaign_View](files/dashboard_mkt_campaign_view.PNG)
 <br>
 
+## Dataviz - Visão dos Padrões de Compra por Ponto de Venda
+![Dashboard_Point _of_Sale_View](files/dashboard_point_sale_view.PNG)
+<br>
+
 [End]
